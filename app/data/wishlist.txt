@@ -1,0 +1,21 @@
+{
+    "wishlist_details": [
+        {
+            "tenant_email": "tenant@student.monash.edu",
+            "property_details": [
+                {
+                    "property_address": "5 Elm Street",
+                    "added_time": "18/05/2023 23:19:56"
+                },
+                {
+                    "property_address": "45 Springvale Road",
+                    "added_time": "18/05/2023 23:19:56"
+                },
+                {
+                    "property_address": "55 Main Road",
+                    "added_time": "20/05/2023 00:02:36"
+                }
+            ]
+        }
+    ]
+}

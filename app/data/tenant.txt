@@ -1,0 +1,34 @@
+{
+  "tenant_details": [
+    {
+      "first_name": "Vincent",
+      "last_name": "Chang",
+      "email": "tenant@student.monash.edu",
+      "mobile_phone": "",
+      "password": "Monash1234",
+      "gender": "Male",
+      "preferred_renting_cost": "800",
+      "preferred_suburb": "Carlton"
+    },
+    {
+      "first_name": "Abhishek",
+      "last_name": "Mathur",
+      "email": "abhi@student.monash.edu",
+      "mobile_phone": "",
+      "password": "tryguestmypassword",
+      "gender": "Male",
+      "preferred_renting_cost": "700",
+      "preferred_suburb": "Clayton"
+    },
+    {
+      "first_name": "Aditi",
+      "last_name": "Menon",
+      "email": "aditi@student.monash.edu",
+      "mobile_phone": "",
+      "password": "shouldItellyou3",
+      "gender": "Female",
+      "preferred_renting_cost": "900",
+      "preferred_suburb": "Caulfield"
+    }
+  ]
+}

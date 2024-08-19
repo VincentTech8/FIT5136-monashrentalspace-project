@@ -1,0 +1,74 @@
+{
+  "property_details": [
+    {
+	"property_address": "5 Elm Street",
+	"property_suburb": "Oakleigh",
+	"property_price": "500 AUD per week",
+	"property_condition": "Furnished",
+	"property_type": "Townhouse",
+	"property_state": "Off Market",
+	"property_description": "Modern townhouse with spacious living areas and a private courtyard",
+	"property_agent": "Rebecca Jones",
+	"property_management_contact_number": "523-451-7190",
+	"property_application_url": "https://www.real-estate-australia.com/23638/rent/application",
+	"property_inspection_date_time": "May 20 2023, 2:00 PM",
+	"property_listed_date": "07/09/2021"
+    },
+    {
+    "property_address": "25 Maple Avenue",
+	"property_suburb": "Notting Hill",
+	"property_price": "450 AUD per week",
+	"property_condition": "Not Furnished",
+	"property_type": "Unit",
+	"property_state": "Leasing",
+	"property_description": "Recently renovated unit with modern finishes and close proximity to amenities.",
+	"property_agent": "Marcus Reid",
+	"property_management_contact_number": "987-654-3210",
+	"property_application_url": "https://www.real-estate-australia.com.au/2441/rent/application",
+	"property_inspection_date_time": "May 22 2023, 11:00 AM",
+	"property_listed_date": "05/12/2021"
+    },
+    {
+    "property_address": "35 Oakwood Drive",
+	"property_suburb": "Clayton South",
+	"property_price": "610 AUD per week",
+	"property_condition": "Not Furnished",
+	"property_type": "House",
+	"property_state": "Leasing",
+	"property_description": "Spacious family home with a large backyard and conveniently located near schools.",
+	"property_agent": "James Peter",
+	"property_management_contact_number": "555-123-4567",
+	"property_application_url": "https://www.real-estate-australia.com.au/123143/rent/application",
+	"property_inspection_date_time": "May 24 2023, 3:00 PM",
+	"property_listed_date": "03/06/2023"
+    },
+    {
+    "property_address": "45 Springvale Road",
+	"property_suburb": "Mulgrave",
+	"property_price": "550 AUD per week",
+	"property_condition": "Furnished",
+	"property_type": "Apartment",
+	"property_state": "Leasing",
+	"property_description": "Contemporary apartment with stunning views and access to communal facilities.",
+	"property_agent": "Kyle Dansworth",
+	"property_management_contact_number": "321-789-6540",
+	"property_application_url": "https://www.real-estate-australia.com.au/23139/rent/application",
+	"property_inspection_date_time": "May 26 2023, 4:30 PM",
+	"property_listed_date": "04/05/2021"
+    },
+    {
+    "property_address": "55 Main Road",
+	"property_suburb": "Clayton",
+	"property_price": "480 AUD per week",
+	"property_condition": "Furnished",
+	"property_type": "Townhouse",
+	"property_state": "Leasing",
+	"property_description": "Neat and tidy townhouse with a private garden and close proximity to public transport.",
+	"property_agent": "James Peter",
+	"property_management_contact_number": "888-222-3333",
+	"property_application_url": "https://www.real-estate-australia.com.au/342894/rent/application",
+	"property_inspection_date_time": "May 28 2023, 10:00 AM",
+	"property_listed_date": "03/06/2022"
+    }
+  ]
+}
