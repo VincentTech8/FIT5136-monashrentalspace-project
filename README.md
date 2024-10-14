@@ -2,4 +2,4 @@
 
 Steps:
 1. Clone the repository
-2. Run MonashRentalSystem.py
+2. Run app/MonashRentalSystem.py
